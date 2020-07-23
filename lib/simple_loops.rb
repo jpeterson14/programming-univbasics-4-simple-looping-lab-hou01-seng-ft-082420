@@ -13,5 +13,8 @@ def loop_message_five_times(string,integer)
     count += 1 
   end
 end 
+
+def output_array(array)
+  
   
   
